@@ -6,3 +6,7 @@ helllo
 Im sahana 
 asdfgjklsdfghjk
 
+<<<<<<< HEAD
+=======
+abercrombie & fitch
+>>>>>>> osr
