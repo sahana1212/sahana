@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 
 hiiii
 Im Koushik :D
 We are best friends.
+=======
+helllo 
+Im sahana 
+asdfgjklsdfghjk
+>>>>>>> osr
